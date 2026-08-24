@@ -1,0 +1,56 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090b"/>
+      <stop offset="100%" stop-color="#0f1014"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <text x="450" y="52" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="30" font-weight="700" fill="#b8ff3b">Cybersecurity + AI Engineer</text>
+
+  <!-- bow -->
+  <g transform="translate(90,140)">
+    <path d="M0,-46 Q-24,0 0,46" stroke="#5b5d56" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <line x1="0" y1="-46" x2="0" y2="46" stroke="#8a8c83" stroke-width="1.5"/>
+  </g>
+
+  <!-- target -->
+  <g transform="translate(790,140)">
+    <circle r="36" fill="#0f1014" stroke="#b8ff3b" stroke-width="2"/>
+    <circle r="24" fill="#08090b" stroke="#b8ff3b" stroke-width="2" opacity="0.8"/>
+    <circle r="12" fill="#08090b" stroke="#b8ff3b" stroke-width="2" opacity="0.6"/>
+
+    <!-- bug (vulnerability) sitting on the target -->
+    <g stroke="#f4f4ee" stroke-width="1.6" fill="#f4f4ee" opacity="1">
+      <ellipse cx="0" cy="0" rx="7" ry="10"/>
+      <line x1="-9" y1="-6" x2="-15" y2="-11"/>
+      <line x1="9" y1="-6" x2="15" y2="-11"/>
+      <line x1="-10" y1="0" x2="-17" y2="0"/>
+      <line x1="10" y1="0" x2="17" y2="0"/>
+      <line x1="-9" y1="6" x2="-15" y2="11"/>
+      <line x1="9" y1="6" x2="15" y2="11"/>
+      <animate attributeName="opacity" values="1;1;0;0;0;1;1" keyTimes="0;0.33;0.36;0.5;0.6;0.66;1" dur="3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- impact flash -->
+  <circle cx="790" cy="140" r="0" fill="#b8ff3b" opacity="0">
+    <animate attributeName="r" values="0;0;44;0;0" keyTimes="0;0.32;0.36;0.42;1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.55;0;0" keyTimes="0;0.32;0.36;0.42;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- flying arrow -->
+  <g>
+    <line x1="90" y1="140" x2="140" y2="140" stroke="#c9cac3" stroke-width="4" stroke-linecap="round"/>
+    <polygon points="140,140 124,132 124,148" fill="#b8ff3b"/>
+    <line x1="90" y1="140" x2="78" y2="134" stroke="#c9cac3" stroke-width="3" stroke-linecap="round"/>
+    <line x1="90" y1="140" x2="78" y2="146" stroke="#c9cac3" stroke-width="3" stroke-linecap="round"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; 650,0; 650,0; 650,0; 0,0; 0,0"
+      keyTimes="0; 0.32; 0.36; 0.6; 0.66; 1"
+      dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0;0.32;0.36;0.6;0.66;1" dur="3s" repeatCount="indefinite"/>
+  </g>
+</svg>

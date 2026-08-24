@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090b,50:0f1014,100:08090b&height=220&section=header&text=Cybersecurity%20%2B%20AI%20Engineer&fontSize=40&fontColor=b8ff3b&animation=fadeIn&fontAlignY=45" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B8FF3B&center=true&vCenter=true&width=650&lines=Securing+intelligent+systems...;Building+agentic+%2F+LLM+pipelines...;Threat+modeling+%2B+full-stack+dev..." alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/sdahal51/sdahal51/master/assets/banner.svg" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/sd51"><img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=B8FF3B" /></a>
@@ -16,11 +14,12 @@
 
 ## About
 
-Every vulnerability is a target that hasn't been found yet. I like the discipline of archery for that reason — you don't hit what you're aiming at by chance, you hit it because you understood the wind, the distance, and the draw before you ever released the string.
+I sit at the intersection of **cybersecurity** and **AI engineering** — designing systems that are both intelligent and hard to break. My work spans threat modeling, vulnerability research, and building production agentic/LLM-powered systems end to end.
 
-Security work is the same. A bug doesn't announce itself — you have to read the system closely enough to know exactly where to aim, then have the patience for one precise shot instead of a hundred wild ones. AI is just changing where the targets are: now I'm as interested in what a model will do under pressure as what a server will do under attack.
-
-I'm still stringing new bows — new attack surfaces, new architectures, new failure modes nobody's mapped yet. If there's a target worth hitting, I want to be the one pulling back the string.
+- 🔐 **Security** — application security, threat modeling, vulnerability research, secure-by-design architecture
+- 🤖 **AI / Agentic Systems** — LLM integration, retrieval-augmented pipelines, autonomous agent architectures, graph-based reasoning
+- 🛠️ **Full-Stack Engineering** — Python + TypeScript/React, cloud-native infra on Azure
+- 📈 Currently building AI systems that can reason about their own risk surface
 
 <br/>
 
