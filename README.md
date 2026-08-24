@@ -1,87 +1,74 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sushant+%F0%9F%91%8B;Cybersecurity+%2B+AI+Engineer;Building+secure%2C+intelligent+systems;Full-Stack+Developer" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sd51">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sushant73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add your Twitter/X: uncomment and fill in your handle
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Sushant%20Dahal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Securing+intelligent+systems...;Building+agentic+%2F+LLM+pipelines...;Threat+modeling+%2B+full-stack+dev..." alt="Typing SVG" />
+
+<p>
+  <a href="https://linkedin.com/in/sd51"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sushant73@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sdahal51&label=Profile+Views&color=6366f1&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sdahal51&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sdahal51?label=Followers&style=flat&color=6366f1" alt="followers" />
-</p>
+</div>
 
----
+<br/>
 
-### About Me
+## About
 
-I sit at the intersection of **cybersecurity** and **AI engineering** — designing systems that are both intelligent and hard to break. My work spans threat modeling and vulnerability research, building agentic/LLM-powered systems, and shipping production full-stack applications end to end.
+I sit at the intersection of **cybersecurity** and **AI engineering** — designing systems that are both intelligent and hard to break. My work spans threat modeling, vulnerability research, and building production agentic/LLM-powered systems end to end.
 
 - 🔐 **Security** — application security, threat modeling, vulnerability research, secure-by-design architecture
-- 🤖 **AI / Agentic Systems** — LLM integration, retrieval-augmented generation, autonomous agent pipelines, graph-based reasoning
-- 🛠️ **Full-Stack Engineering** — React/TypeScript frontends, Python backends, cloud-native infrastructure
-- 📈 Currently focused on building AI systems that can reason about their own risk surface
+- 🤖 **AI / Agentic Systems** — LLM integration, retrieval-augmented pipelines, autonomous agent architectures, graph-based reasoning
+- 🛠️ **Full-Stack Engineering** — Python + TypeScript/React, cloud-native infra on Azure
+- 📈 Currently building AI systems that can reason about their own risk surface
 
----
+<br/>
 
-### Tech Stack
+## Tech Stack
 
-**Security**
-<p>
-  <img src="https://img.shields.io/badge/AppSec-000000?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Modeling-DREAD%20%2F%20MITRE%20ATT%26CK-black?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,docker,azure,git&theme=dark" />
 </p>
 
-**AI / LLM**
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20Systems-6366F1?style=flat-square" />
-</p>
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
-
-**Data & Infra**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Engineering-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20Systems-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-A78BFA?style=flat-square" />
+  <img src="https://img.shields.io/badge/AppSec-000000?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
----
+<br/>
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sdahal51&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdahal51&layout=compact&hide_border=true&title_color=6366f1&text_color=333" />
-</p>
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdahal51&hide_border=true&background=FFFFFF00&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdahal51&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdahal51&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sdahal51&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9cac3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdahal51&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9cac3" />
 </p>
-
----
 
 <p align="center">
-  <i>Open to conversations on AI security, agentic architectures, and hard engineering problems.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdahal51&hide_border=true&background=0D1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sdahal51&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<br/>
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdahal51/sdahal51/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sdahal51/sdahal51/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
