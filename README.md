@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sdahal51/sdahal51/master/assets/banner.svg?v=9" width="100%"/>
+<img src="https://raw.githubusercontent.com/sdahal51/sdahal51/master/assets/banner.svg" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=B8FF3B&center=true&vCenter=true&width=560&height=30&lines=cybersecurity_engineer+%C3%97+ai_architect;ai_architect;security_researcher;adversarial_ai_specialist" />
 
 <p>
   <a href="https://linkedin.com/in/sd51"><img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=B8FF3B" /></a>
