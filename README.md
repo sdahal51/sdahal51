@@ -41,17 +41,4 @@ I sit at the intersection of **cybersecurity** and **AI engineering** — design
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sdahal51&show_icons=true&hide_border=true&bg_color=08090b&title_color=b8ff3b&icon_color=b8ff3b&text_color=c9cac3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdahal51&layout=compact&hide_border=true&bg_color=08090b&title_color=b8ff3b&text_color=c9cac3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdahal51&hide_border=true&background=08090B&ring=B8FF3B&fire=B8FF3B&currStreakLabel=B8FF3B&sideLabels=C9CAC3&sideNums=F4F4EE&dates=8A8C83" />
-</p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090b,50:0f1014,100:08090b&height=100&section=footer" width="100%"/>
