@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Sushant%20Dahal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Cybersecurity%20%2B%20AI%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Securing+intelligent+systems...;Building+agentic+%2F+LLM+pipelines...;Threat+modeling+%2B+full-stack+dev..." alt="Typing SVG" />
 
