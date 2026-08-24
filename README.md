@@ -22,6 +22,21 @@ If you're shipping AI features and want someone who finds what breaks them befor
 
 <br/>
 
+## Interests
+
+Where I spend my curiosity outside of shipped work — the boundary between how systems think and how they get broken.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20Systems-0f1014?style=flat-square&labelColor=08090b" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-0f1014?style=flat-square&labelColor=08090b" />
+  <img src="https://img.shields.io/badge/Attack%20Graph%20Modeling-0f1014?style=flat-square&labelColor=08090b" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-0f1014?style=flat-square&labelColor=08090b" />
+  <img src="https://img.shields.io/badge/Defensive%20Security-0f1014?style=flat-square&labelColor=08090b" />
+  <img src="https://img.shields.io/badge/Adversarial%20AI-0f1014?style=flat-square&labelColor=08090b" />
+</p>
+
+<br/>
+
 ## Tech Stack
 
 <p align="center">
@@ -31,7 +46,6 @@ If you're shipping AI features and want someone who finds what breaks them befor
 <p align="center">
   <img src="https://img.shields.io/badge/Neo4j-08090b?style=flat-square&logo=neo4j&logoColor=B8FF3B" />
   <img src="https://img.shields.io/badge/LLM%20Engineering-0f1014?style=flat-square&labelColor=08090b" />
-  <img src="https://img.shields.io/badge/Agentic%20Systems-0f1014?style=flat-square&labelColor=08090b" />
   <img src="https://img.shields.io/badge/Threat%20Modeling-0f1014?style=flat-square&labelColor=08090b" />
   <img src="https://img.shields.io/badge/AppSec-08090b?style=flat-square&logo=owasp&logoColor=B8FF3B" />
 </p>
