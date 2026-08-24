@@ -41,16 +41,18 @@
     <animate attributeName="opacity" values="0;0;0.55;0;0" keyTimes="0;0.32;0.36;0.42;1" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- flying arrow -->
-  <g>
-    <line x1="90" y1="140" x2="140" y2="140" stroke="#c9cac3" stroke-width="4" stroke-linecap="round"/>
-    <polygon points="140,140 124,132 124,148" fill="#b8ff3b"/>
-    <line x1="90" y1="140" x2="78" y2="134" stroke="#c9cac3" stroke-width="3" stroke-linecap="round"/>
-    <line x1="90" y1="140" x2="78" y2="146" stroke="#c9cac3" stroke-width="3" stroke-linecap="round"/>
-    <animateTransform attributeName="transform" type="translate"
-      values="0,0; 650,0; 650,0; 650,0; 0,0; 0,0"
-      keyTimes="0; 0.32; 0.36; 0.6; 0.66; 1"
-      dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0;0.32;0.36;0.6;0.66;1" dur="3s" repeatCount="indefinite"/>
+  <!-- flying arrow, angled slightly downward into the target -->
+  <g transform="translate(100,105) rotate(2.95)">
+    <g>
+      <line x1="0" y1="0" x2="50" y2="0" stroke="#c9cac3" stroke-width="4" stroke-linecap="round"/>
+      <polygon points="50,0 34,-8 34,8" fill="#b8ff3b"/>
+      <line x1="0" y1="0" x2="-12" y2="-6" stroke="#c9cac3" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="-12" y2="6" stroke="#c9cac3" stroke-width="3" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 681,0; 681,0; 681,0; 0,0; 0,0"
+        keyTimes="0; 0.32; 0.36; 0.6; 0.66; 1"
+        dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0;0.32;0.36;0.6;0.66;1" dur="3s" repeatCount="indefinite"/>
+    </g>
   </g>
 </svg>
