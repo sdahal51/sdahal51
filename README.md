@@ -57,7 +57,7 @@ I sit at the intersection of **cybersecurity** and **AI engineering** — design
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdahal51&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sdahal51&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 <br/>
