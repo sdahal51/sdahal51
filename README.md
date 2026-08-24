@@ -41,11 +41,7 @@ I sit at the intersection of **cybersecurity** and **AI engineering** — design
 
 <br/>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdahal51&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%"/>
-</p>
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sdahal51&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9cac3" />
@@ -61,14 +57,5 @@ I sit at the intersection of **cybersecurity** and **AI engineering** — design
 </p>
 
 <br/>
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdahal51/sdahal51/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sdahal51/sdahal51/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
