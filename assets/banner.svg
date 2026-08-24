@@ -12,7 +12,7 @@
 
   <!-- bow -->
   <g transform="translate(90,140)">
-    <path d="M0,-46 Q-24,0 0,46" stroke="#5b5d56" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M0,-46 Q24,0 0,46" stroke="#5b5d56" stroke-width="6" fill="none" stroke-linecap="round"/>
     <line x1="0" y1="-46" x2="0" y2="46" stroke="#8a8c83" stroke-width="1.5"/>
   </g>
 
