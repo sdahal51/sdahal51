@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sdahal51/sdahal51/master/assets/banner.svg?v=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/sdahal51/sdahal51/master/assets/banner.svg?v=8" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/sd51"><img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=B8FF3B" /></a>
