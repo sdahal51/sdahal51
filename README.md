@@ -16,12 +16,11 @@
 
 ## About
 
-I sit at the intersection of **cybersecurity** and **AI engineering** — designing systems that are both intelligent and hard to break. My work spans threat modeling, vulnerability research, and building production agentic/LLM-powered systems end to end.
+Every vulnerability is a target that hasn't been found yet. I like the discipline of archery for that reason — you don't hit what you're aiming at by chance, you hit it because you understood the wind, the distance, and the draw before you ever released the string.
 
-- 🔐 **Security** — application security, threat modeling, vulnerability research, secure-by-design architecture
-- 🤖 **AI / Agentic Systems** — LLM integration, retrieval-augmented pipelines, autonomous agent architectures, graph-based reasoning
-- 🛠️ **Full-Stack Engineering** — Python + TypeScript/React, cloud-native infra on Azure
-- 📈 Currently building AI systems that can reason about their own risk surface
+Security work is the same. A bug doesn't announce itself — you have to read the system closely enough to know exactly where to aim, then have the patience for one precise shot instead of a hundred wild ones. AI is just changing where the targets are: now I'm as interested in what a model will do under pressure as what a server will do under attack.
+
+I'm still stringing new bows — new attack surfaces, new architectures, new failure modes nobody's mapped yet. If there's a target worth hitting, I want to be the one pulling back the string.
 
 <br/>
 
