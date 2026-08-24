@@ -52,10 +52,6 @@ I sit at the intersection of **cybersecurity** and **AI engineering** — design
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdahal51&hide_border=true&background=08090B&ring=B8FF3B&fire=B8FF3B&currStreakLabel=B8FF3B&sideLabels=C9CAC3&sideNums=F4F4EE&dates=8A8C83" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdahal51&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090b,50:0f1014,100:08090b&height=100&section=footer" width="100%"/>
