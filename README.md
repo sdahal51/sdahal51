@@ -14,12 +14,11 @@
 
 ## About
 
-I sit at the intersection of **cybersecurity** and **AI engineering** — designing systems that are both intelligent and hard to break. My work spans threat modeling, vulnerability research, and building production agentic/LLM-powered systems end to end.
+Most security people don't understand how modern AI systems actually fail. Most AI engineers don't think like an attacker. I work in the small overlap — finding the vulnerabilities that only show up once you understand both sides.
 
-- 🔐 **Security** — application security, threat modeling, vulnerability research, secure-by-design architecture
-- 🤖 **AI / Agentic Systems** — LLM integration, retrieval-augmented pipelines, autonomous agent architectures, graph-based reasoning
-- 🛠️ **Full-Stack Engineering** — Python + TypeScript/React, cloud-native infra on Azure
-- 📈 Currently building AI systems that can reason about their own risk surface
+I've spent my career breaking systems on purpose so they don't break in production: real threat models, real exploits, defenses built to survive contact with an adversary. Now I'm pointing that same instinct at agentic and LLM-powered systems, because that's where the next generation of vulnerabilities is already showing up — and most teams haven't started looking yet.
+
+If you're shipping AI features and want someone who finds what breaks them before your users or your attackers do, that's the work I want to be doing.
 
 <br/>
 
